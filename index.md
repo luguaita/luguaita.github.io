@@ -3,9 +3,8 @@
 ---
 
 ### Predicting Diamond Prices with Supervised Learning: Exploring Decision Trees
-<img src="images/Boxplots_diamonds.png?raw=true"/>
-
 Supervised learning and decision trees are machine learning techniques used to train models that can make predictions or classifications based on labeled data. In this project I built decision trees to predict diamond prices.
+<img src="images/Boxplots_diamonds.png?raw=true"/>
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![]
 
