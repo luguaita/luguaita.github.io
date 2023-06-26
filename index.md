@@ -1,4 +1,4 @@
-## Selected projects in data science, EDA and machine learning
+## DOSSelected projects in data science, EDA and machine learning
 
 ---
 
