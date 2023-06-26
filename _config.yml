@@ -1,11 +1,12 @@
 title: Luisana Guaita # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Civil engineer and data science student with +8 years of experience in project engineering, making reports 
+  Civil engineer and data science masters' student with +8 years of experience in project engineering, making reports, drafting, 
+  and +3 years of teaching mathematics and statistics specifically catering to the Cambridge syllabus. 
   <br><br>
-  Second description 
+  Leader of the Go Green Committee at TIPS and responsible for the first Summer School based on Sustainability and STEM 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/luisanaguaita/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
