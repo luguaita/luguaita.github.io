@@ -4,14 +4,14 @@
 
 ### Supervised learning: decision trees for ICU patients and diamond prices prediction
 
-[Supervised learning](/sample_page)
+[Predicting Diamond Prices with Supervised Learning: Exploring Decision Trees](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-Supervised learning and decision trees are machine learning techniques used to train models that can make predictions or classifications based on labeled data. In this project I built decision trees to predict ICU patients survival and diamond prices.
+Supervised learning and decision trees are machine learning techniques used to train models that can make predictions or classifications based on labeled data. In this project I built decision trees to predict diamond prices.
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/Twitter-white?logo=Twitter)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![]
 
-[View code on Colab](https://colab.research.google.com/drive/1EuJmSQV21Px70mfULO7u23_LNuZtuV_A?authuser=1#scrollTo=OUhxiRm_oJMa)
+[View code on Colab](https://colab.research.google.com/drive/1NZuU_dUReNAirX1UePdlmN2fgey0lmKI?authuser=1#scrollTo=X1iYpkSm2_2q)
 
 
 
