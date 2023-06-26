@@ -2,10 +2,8 @@
 
 ---
 
-### Supervised learning: decision trees for ICU patients and diamond prices prediction
-
-[Predicting Diamond Prices with Supervised Learning: Exploring Decision Trees](/sample_page)
-<img src="images/Boxplots_diamonds.jpg?raw=true"/>
+### Predicting Diamond Prices with Supervised Learning: Exploring Decision Trees
+<img src="images/Boxplots_diamonds.png?raw=true"/>
 
 Supervised learning and decision trees are machine learning techniques used to train models that can make predictions or classifications based on labeled data. In this project I built decision trees to predict diamond prices.
 
