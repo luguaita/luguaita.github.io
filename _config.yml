@@ -1,5 +1,6 @@
 title: Luisana Guaita # your name (or website title) here
-logo: "/images/Photo_L.jpg?raw=true" # your photo (or logo) here
+<img src="/images/Photo_L.jpg?raw=true" alt="Logo" style="border-radius: 50%; width: 150px; height: 150px;">
+#logo: "/images/Photo_L.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <br>
   Experienced civil engineer and data science master's student with expertise in project engineering, report writing, and teaching mathematics $ statistics.
@@ -12,7 +13,7 @@ description: > # your text below (remove <br> elements if you don't need line br
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
 
-<img src="/images/Photo_L.jpg?raw=true" alt="Logo" style="border-radius: 50%; width: 150px; height: 150px;">
+
 
 
 
