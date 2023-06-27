@@ -10,12 +10,13 @@ Artificial Neural Networks (ANNs) and Support Vector Machines (SVM) are widely r
 
 ---
 ### Connecting Airports: A Knowledge Graph Visualization Approach
-A knowledge graph consists of nodes (also known as entities) and edges (also known as relationships) that connect those nodes. Each node represents a concept or entity, while the edges represent the relationships between those concepts. In this project, I display airports as nodes and the connections between them as edges. I provide a visual representation of how airports are related to each other based on their origin and destination relationships, enabling easier exploration and understanding of the airport network.
+A knowledge graph consists of nodes (also known as entities) and edges (also known as relationships) that connect those nodes. Each node represents a concept or entity, while the edges represent the relationships between those concepts. In this project, I display airports as nodes and the connections between them as edges, providing a visual representation of how airports are related to each other based on their origin and destination relationships, enabling easier exploration and understanding of the airport network.
+
+<img src="images/Airports.png?raw=true"/>
 
 [![](https://img.shields.io/badge/R-white?logo=R)](#) 
 
 [View code on Colab](https://colab.research.google.com/drive/15MmJuf7Xf9kVApP5J3eCEklquyoqpfUK?hl=es#scrollTo=bXtqhhrs_Vov)
-
 
 ---
 ### Predicting ICU Patient Survival with Supervised Learning: Exploring Decision Trees
