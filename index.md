@@ -1,8 +1,18 @@
 ## Selected projects in data science: EDA and machine learning
 
 ---
+### Predicting ICU Patient Survival with Supervised Learning: Exploring Decision Trees
+In this project, I utilized the power of supervised learning and decision trees, two machine learning techniques, to construct predictive models that can make accurate predictions or classifications based on labeled data. Specifically, I employed decision trees to forecast the survival of patients in an ICU setting
 
-### Predicting Diamond Prices with Supervised Learning: Exploring Decision Trees
+<img src="images/DecisionTree.png?raw=true"/>
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)
+
+[View code on Colab](https://colab.research.google.com/drive/1EuJmSQV21Px70mfULO7u23_LNuZtuV_A?authuser=1#scrollTo=TfYzMPDjT3g-)
+
+---
+
+### Using Supervised Learning and Decision Trees to Forecast Diamond Prices
 Supervised learning and decision trees are machine learning techniques used to train models that can make predictions or classifications based on labeled data. In this project I built decision trees to predict diamond prices.
 
 <img src="images/Boxplots_diamonds.png?raw=true"/>
@@ -11,11 +21,6 @@ Supervised learning and decision trees are machine learning techniques used to t
 
 [View code on Colab](https://colab.research.google.com/drive/1NZuU_dUReNAirX1UePdlmN2fgey0lmKI?authuser=1#scrollTo=X1iYpkSm2_2q)
 
-
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
